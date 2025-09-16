@@ -1,8 +1,0 @@
-Dr. Sanchez|System Software|Lecture
-Dr. Pablo|Cyber security|Lecture
-Dr. Perez|System Software|Seminar
-Dr. Andrew|System Analytics and Tech|Tutorial
-Dr. isbor|System Analytics and Tech|meeitng yr 2
-Dr. David|Operational Systems|Lab
-Dr. Kyle|System and Tech|Seminar
-Dr. George|Mathematics|Seminar
